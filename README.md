@@ -1,5 +1,4 @@
-🪙 Bitcoin Price Prediction using Linear Regression
-
+#🪙 Bitcoin Price Prediction using Linear Regression 
 This project demonstrates how to predict the closing price of Bitcoin using historical daily data and a simple machine learning model.
 
 ---
