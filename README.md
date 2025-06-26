@@ -1,8 +1,4 @@
-Sure! Here's a clean and concise `README.md` text version for your **Bitcoin Price Prediction** project, similar in style to the one I gave you earlier for the dashboard:
-
----
-
-# 🪙 Bitcoin Price Prediction using Linear Regression
+🪙 Bitcoin Price Prediction using Linear Regression
 
 This project demonstrates how to predict the closing price of Bitcoin using historical daily data and a simple machine learning model.
 
@@ -85,6 +81,5 @@ bitcoin-price-prediction/
 
 ---
 
-Let me know if you want the JSON preview card or the full folder structure zip file!
 
 
